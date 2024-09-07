@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "og0xRRKd9w0UwGipHMF0IwyEb+lW7Hgc3UYny7PF2vRUyOKPD/Hn2BHHQ71HCYbNwTUxMfjeHyCiRaVSKmR+0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moazzam\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\Moazzam\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Moazzam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.7.24405.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.7.24405.7.nupkg.sha512"
+  ],
+  "logs": []
+}
