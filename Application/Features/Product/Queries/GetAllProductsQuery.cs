@@ -1,4 +1,6 @@
-﻿using MediatR;
+﻿using Application.Interfaces;
+using MediatR;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,19 +16,15 @@ namespace Application.Features.Product.Queries
 
     public class GetAllProductsQueryHandler : IRequestHandler<GetAllProductsQuery,IEnumerable<Domain.Entities.Product>>
     {
+        private readonly IApplicationDbContext _context;
+        public GetAllProductsQueryHandler(IApplicationDbContext context)
+        {
+                _context=context;
+        }
         public async Task<IEnumerable<Domain.Entities.Product>> Handle(GetAllProductsQuery request, CancellationToken cancellationToken)
         {
-            var lst=new List<Domain.Entities.Product>();
-            //var prod=new Product();
-            //for(int i=0;i<100;i++)
-            //{
-            //    var prod = new Product();
-            //    prod.name = "test";
-            //    prod.description = "description";
-            //    prod.rate = 100 + i;
-            //    lst.Add(prod);
-            //}
-            return lst;
+            var result=await _context.Product.ToListAsync(cancellationToken);
+            return result;
             
         }
     }

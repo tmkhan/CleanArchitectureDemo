@@ -1,4 +1,5 @@
-﻿using Application.Features.Product.Queries;
+﻿using Application.Features.Product.Commands;
+using Application.Features.Product.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -23,6 +24,12 @@ public ProductController(IMediator mediator)
             var result= await _mediator.Send(new GetAllProductsQuery(), cancellationToken);
             return Ok(result);
     }
+        [HttpPost("Create")]
+        public async Task<IActionResult> Create(CreateProductCommand cmd,CancellationToken cancellationToken)
+        {
+            var result=await _mediator.Send(cmd, cancellationToken);
+            return Ok(result);
+        }
     }
 
 }

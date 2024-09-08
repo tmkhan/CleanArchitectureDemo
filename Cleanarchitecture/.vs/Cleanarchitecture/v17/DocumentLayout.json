@@ -3,22 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Cleanarchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0923388E-F3A7-4CB4-A67D-6FC08D263E85}|Solution Items{0923388E-F3A7-4CB4-A67D-6FC08D263E85}|C:\\Users\\Moazzam\\source\\repos\\TestProject\\Cleanarchitecture\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0923388E-F3A7-4CB4-A67D-6FC08D263E85}|Solution Items{0923388E-F3A7-4CB4-A67D-6FC08D263E85}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2099DEDD-DB2C-4EE3-9B42-9964D519A11E}|..\\Application\\Application.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\application\\features\\product\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3CF034-4EB0-4687-8673-1ADEA6E4B910}|..\\WebApi\\WebApi.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3DED359-F701-48D3-A399-E44275AE73B1}|..\\Persistence\\Persistence.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\persistence\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3CF034-4EB0-4687-8673-1ADEA6E4B910}|..\\WebApi\\WebApi.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2099DEDD-DB2C-4EE3-9B42-9964D519A11E}|..\\Application\\Application.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\application\\features\\product\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3DED359-F701-48D3-A399-E44275AE73B1}|..\\Persistence\\Persistence.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2099DEDD-DB2C-4EE3-9B42-9964D519A11E}|..\\Application\\Application.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\application\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2099DEDD-DB2C-4EE3-9B42-9964D519A11E}|..\\Application\\Application.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\application\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DED359-F701-48D3-A399-E44275AE73B1}|..\\Persistence\\Persistence.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\persistence\\migrations\\20240907081433_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF3CF034-4EB0-4687-8673-1ADEA6E4B910}|..\\WebApi\\WebApi.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3CF034-4EB0-4687-8673-1ADEA6E4B910}|..\\WebApi\\WebApi.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3DED359-F701-48D3-A399-E44275AE73B1}|..\\Persistence\\Persistence.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\persistence\\migrations\\20240907081433_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF3CF034-4EB0-4687-8673-1ADEA6E4B910}|..\\WebApi\\WebApi.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\webapi\\obj\\debug\\net8.0\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -36,12 +49,6 @@
       "AbsoluteMoniker": "D:0:0:{DF3CF034-4EB0-4687-8673-1ADEA6E4B910}|..\\WebApi\\WebApi.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2099DEDD-DB2C-4EE3-9B42-9964D519A11E}|..\\Application\\Application.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\application\\features\\product\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2099DEDD-DB2C-4EE3-9B42-9964D519A11E}|..\\Application\\Application.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\application\\features\\product\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{736E66E7-C57B-4C6C-8C12-A1085CFA8A10}|..\\Domain\\Domain.csproj|c:\\users\\moazzam\\source\\repos\\testproject\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,12 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -68,45 +71,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Cleanarchitecture\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Cleanarchitecture\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-08T02:24:26.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ServiceExtension.cs",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Persistence\\ServiceExtension.cs",
               "RelativeDocumentMoniker": "..\\Persistence\\ServiceExtension.cs",
               "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Persistence\\ServiceExtension.cs",
               "RelativeToolTip": "..\\Persistence\\ServiceExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T13:32:57.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Features\\Product\\Queries\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Features\\Product\\Queries\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Features\\Product\\Queries\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "..\\Application\\Features\\Product\\Queries\\GetAllProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:26:55.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "..\\Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:12:32.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:47:46.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Persistence\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\Persistence\\Context\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Persistence\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "..\\Persistence\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T13:32:49.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240907081433_initialmigration.cs",
-              "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Persistence\\Migrations\\20240907081433_initialmigration.cs",
-              "RelativeDocumentMoniker": "..\\Persistence\\Migrations\\20240907081433_initialmigration.cs",
-              "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Persistence\\Migrations\\20240907081433_initialmigration.cs",
-              "RelativeToolTip": "..\\Persistence\\Migrations\\20240907081433_initialmigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "DocumentIndex": 6,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Application\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:45:03.2Z",
+              "WhenOpened": "2024-09-08T01:11:09.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "..\\WebApi\\appsettings.json",
@@ -114,25 +169,11 @@
               "RelativeToolTip": "..\\WebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-07T03:25:03.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T03:25:03.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\WebApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "..\\WebApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\WebApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "..\\WebApi\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T16:47:46.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ServiceExtension.cs",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\ServiceExtension.cs",
               "RelativeDocumentMoniker": "..\\Application\\ServiceExtension.cs",
@@ -145,7 +186,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "20240907081433_initialmigration.cs",
+              "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Persistence\\Migrations\\20240907081433_initialmigration.cs",
+              "RelativeDocumentMoniker": "..\\Persistence\\Migrations\\20240907081433_initialmigration.cs",
+              "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Persistence\\Migrations\\20240907081433_initialmigration.cs",
+              "RelativeToolTip": "..\\Persistence\\Migrations\\20240907081433_initialmigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:45:03.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\WebApi\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "RelativeDocumentMoniker": "..\\WebApi\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
@@ -153,12 +206,11 @@
               "RelativeToolTip": "..\\WebApi\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:23:18.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T09:23:18.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "20240907081256_initialmigration.cs",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Persistence\\Migrations\\20240907081256_initialmigration.cs",
               "RelativeDocumentMoniker": "..\\Persistence\\Migrations\\20240907081256_initialmigration.cs",
@@ -166,12 +218,11 @@
               "RelativeToolTip": "..\\Persistence\\Migrations\\20240907081256_initialmigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T08:12:56.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T08:12:56.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Product.cs",
@@ -179,12 +230,11 @@
               "RelativeToolTip": "..\\Domain\\Entities\\Product.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAADwvxEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:07:41.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T03:07:41.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Domain\\Class1.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
@@ -192,12 +242,11 @@
               "RelativeToolTip": "..\\Domain\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:46:43.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:46:43.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "..\\WebApi\\Program.cs",
@@ -205,12 +254,11 @@
               "RelativeToolTip": "..\\WebApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:14:10.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:14:10.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Domain\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Common\\BaseEntity.cs",
@@ -218,47 +266,19 @@
               "RelativeToolTip": "..\\Domain\\Common\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T03:05:24.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T03:05:24.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetAllProductsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Features\\Product\\Queries\\GetAllProductsQuery.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Features\\Product\\Queries\\GetAllProductsQuery.cs",
-              "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Features\\Product\\Queries\\GetAllProductsQuery.cs",
-              "RelativeToolTip": "..\\Application\\Features\\Product\\Queries\\GetAllProductsQuery.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T14:26:55.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateProductCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
-              "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
-              "RelativeToolTip": "..\\Application\\Features\\Product\\Commands\\CreateProductCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T14:12:32.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Application",
+              "DocumentIndex": 16,
+              "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "..\\Application\\Application.csproj",
               "ToolTip": "C:\\Users\\Moazzam\\source\\repos\\TestProject\\Application\\Application.csproj",
               "RelativeToolTip": "..\\Application\\Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-06T05:11:25.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T05:11:25.374Z"
             }
           ]
         }

@@ -146,3 +146,4 @@ C:\Users\Moazzam\source\repos\TestProject\WebApi\obj\Debug\net8.0\refint\WebApi.
 C:\Users\Moazzam\source\repos\TestProject\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\Users\Moazzam\source\repos\TestProject\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\Users\Moazzam\source\repos\TestProject\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Moazzam\source\repos\TestProject\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
